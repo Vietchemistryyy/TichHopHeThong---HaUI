@@ -1,0 +1,9 @@
+D:\Tichhophethong\TichHopViet\TichHop\TichHop\bin\Debug\TichHop.exe.config
+D:\Tichhophethong\TichHopViet\TichHop\TichHop\bin\Debug\TichHop.exe
+D:\Tichhophethong\TichHopViet\TichHop\TichHop\bin\Debug\TichHop.pdb
+D:\Tichhophethong\TichHopViet\TichHop\TichHop\obj\Debug\TichHop.csproj.AssemblyReference.cache
+D:\Tichhophethong\TichHopViet\TichHop\TichHop\obj\Debug\TichHop.Properties.Resources.resources
+D:\Tichhophethong\TichHopViet\TichHop\TichHop\obj\Debug\TichHop.csproj.GenerateResource.cache
+D:\Tichhophethong\TichHopViet\TichHop\TichHop\obj\Debug\TichHop.csproj.CoreCompileInputs.cache
+D:\Tichhophethong\TichHopViet\TichHop\TichHop\obj\Debug\TichHop.exe
+D:\Tichhophethong\TichHopViet\TichHop\TichHop\obj\Debug\TichHop.pdb

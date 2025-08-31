@@ -1,0 +1,11 @@
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\School\bin\Debug\School.exe.config
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\School\bin\Debug\School.exe
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\School\bin\Debug\School.pdb
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\School\obj\Debug\School.csproj.AssemblyReference.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\School\obj\Debug\School.Form1.resources
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\School\obj\Debug\School.Properties.Resources.resources
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\School\obj\Debug\School.csproj.GenerateResource.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\School\obj\Debug\School.exe
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\School\obj\Debug\School.pdb
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\School\obj\Debug\School.exe.config

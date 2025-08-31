@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="congty.xslt"?>
+<congty xmlns="http://tempuri.org/congty.xsd">
+	<phongban maphong="P301">
+		<tenphong>Tổ chức</tenphong>
+		<dienthoai>0123456789</dienthoai>
+		<nhanvien>
+			<manv>NV001</manv>
+			<hoten>Nguyễn Quốc Việt</hoten>
+			<trinhdo>Đại Học</trinhdo>
+			<mucluong>15000000</mucluong>
+		</nhanvien>
+		<nhanvien>
+			<manv>NV008</manv>
+			<hoten>Cao Thị Ly</hoten>
+			<trinhdo>Cao Đẳng</trinhdo>
+			<mucluong>10000000</mucluong>
+		</nhanvien>
+		<nhanvien>
+			<manv>NV007</manv>
+			<hoten>Hoàng Tuấn Tài</hoten>
+			<trinhdo>Trung Cấp</trinhdo>
+			<mucluong>9000000</mucluong>
+		</nhanvien>
+	</phongban>
+	<phongban maphong="P302">
+		<tenphong>Hành chính</tenphong>
+		<dienthoai>0123456124</dienthoai>
+		<nhanvien>
+			<manv>NV002</manv>
+			<hoten>Đặng Thu Trang</hoten>
+			<trinhdo>Đại Học</trinhdo>
+			<mucluong>12000000</mucluong>
+		</nhanvien>
+		<nhanvien>
+			<manv>NV003</manv>
+			<hoten>Nguyễn Xuân Tùng</hoten>
+			<trinhdo>Đại Học</trinhdo>
+			<mucluong>15000000</mucluong>
+		</nhanvien>
+		<nhanvien>
+			<manv>NV004</manv>
+			<hoten>Nguyễn Xuân Tú</hoten>
+			<trinhdo>Đại Học</trinhdo>
+			<mucluong>14000000</mucluong>
+		</nhanvien>
+	</phongban>
+</congty>

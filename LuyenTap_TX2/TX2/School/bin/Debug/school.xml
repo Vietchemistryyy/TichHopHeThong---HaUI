@@ -1,0 +1,26 @@
+<truonghoc>
+  <lophoc>
+    <malop>lop01</malop>
+    <phonghoc>704</phonghoc>
+    <sinhvien masv="sv01">
+      <hoten>Nguyễn Quốc Việt</hoten>
+      <diachi>Nam Định</diachi>
+    </sinhvien>
+  </lophoc>
+  <lophoc>
+    <malop>lop02</malop>
+    <phonghoc>704</phonghoc>
+    <sinhvien masv="sv02">
+      <hoten>Đặng Thu Trang</hoten>
+      <diachi>Nam Định</diachi>
+    </sinhvien>
+  </lophoc>
+  <lophoc>
+    <malop>lop03</malop>
+    <phonghoc>765</phonghoc>
+    <sinhvien masv="sv03">
+      <hoten>Nguyễn Xuân Tùng</hoten>
+      <diachi>Phú Thọ</diachi>
+    </sinhvien>
+  </lophoc>
+</truonghoc>

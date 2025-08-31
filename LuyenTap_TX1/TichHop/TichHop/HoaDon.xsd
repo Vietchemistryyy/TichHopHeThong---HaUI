@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HoaDon"
+    targetNamespace="http://tempuri.org/HoaDon.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/HoaDon.xsd"
+    xmlns:mstns="http://tempuri.org/HoaDon.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name="DS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="HoaDon" minOccurs="2" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="MaHD" type="xs:string"></xs:element>
+							<xs:element name="NgayBan" type="xs:date"></xs:element>
+							<xs:element name="LoaiHang">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Hang" minOccurs="2" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="TenHang" type="xs:string"></xs:element>
+													<xs:element name="SoLuong" type="xs:int"></xs:element>
+													<xs:element name="DonViTinh" type="xs:string"></xs:element>
+													<xs:element name="DonGia" type="xs:int"></xs:element>
+												</xs:sequence>
+												<xs:attribute name="MaHang" type="xs:string"></xs:attribute>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="MaLoai" type="xs:string"></xs:attribute>
+									<xs:attribute name="TenLoai" type="xs:string"></xs:attribute>
+								</xs:complexType>
+								<xs:unique	name="Unique_MaHang">
+									<xs:selector xpath="Hang"/>
+									<xs:field xpath="@MaHang"/>
+								</xs:unique>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+		<xs:unique name="Unique_MaHD">
+			<xs:selector xpath="HoaDon"/>
+			<xs:field xpath="MaHD"/>
+		</xs:unique>
+	</xs:element>
+</xs:schema>

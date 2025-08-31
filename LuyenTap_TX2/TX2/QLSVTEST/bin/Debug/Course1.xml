@@ -1,0 +1,27 @@
+<course>
+  <student id="s01">
+    <name>Nguyễn Quốc Việt</name>
+    <age>21</age>
+    <city>Nam Định</city>
+  </student>
+  <student id="s02">
+    <name>Đặng Thu Trang</name>
+    <age>21</age>
+    <city>Nam Định</city>
+  </student>
+  <student id="s03">
+    <name>Nguyễn Văn Phương</name>
+    <age>22</age>
+    <city>Hưng Yên</city>
+  </student>
+  <student id="s04">
+    <name>Đinh Đức Bảo Trung</name>
+    <age>21</age>
+    <city>Ninh Bình</city>
+  </student>
+  <student id="s06">
+    <name>Nguyễn Xuân Tùng</name>
+    <age>22</age>
+    <city>Phú Thọ</city>
+  </student>
+</course>

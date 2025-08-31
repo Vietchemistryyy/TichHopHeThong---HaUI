@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<?xml-stylesheet type="text/xsl" href="NhaSach.xslt"?>
+<nhasach xmlns="http://tempuri.org/NhaSach.xsd">
+	<cuonsach>
+		<masach>s001</masach>
+		<tensach>Tôi thấy hoa vàng trên cỏ xanh</tensach>
+		<sotrang>198</sotrang>
+		<tacgia matg="TG001">
+			<hoten>Nguyễn Nhật Ánh</hoten>
+			<diachi>Hà Nội</diachi>
+		</tacgia>
+	</cuonsach>
+	<cuonsach>
+		<masach>s002</masach>
+		<tensach>Dark nhân tâm</tensach>
+		<sotrang>308</sotrang>
+		<tacgia matg="TG002">
+			<hoten>Nguyễn Quốc Việt</hoten>
+			<diachi>Nam Định</diachi>
+		</tacgia>
+	</cuonsach>
+	<cuonsach>
+		<masach>s004</masach>
+		<tensach>Thần thoại Hy Lạp</tensach>
+		<sotrang>587</sotrang>
+		<tacgia matg="TG003">
+			<hoten>Adolf Hitler</hoten>
+			<diachi>Hà Nội</diachi>
+		</tacgia>
+	</cuonsach>
+</nhasach>

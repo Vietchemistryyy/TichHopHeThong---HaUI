@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="BenhNhan.xslt"?>
+<BVDK xmlns="http://tempuri.org/BenhVien.xsd">
+	<Khoa>
+		<TenKhoa>Nội</TenKhoa>
+		<Phong>301</Phong>
+		<BenhNhan MasoBN="BN001">
+			<HoTen>Nguyễn Quốc Việt</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2004-11-20</NgayNhapVien>
+			<NgayDieuTri>7</NgayDieuTri>
+		</BenhNhan>
+		<BenhNhan MasoBN="BN002">
+			<HoTen>Nguyễn Quốc Việt</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2004-11-20</NgayNhapVien>
+			<NgayDieuTri>15</NgayDieuTri>
+		</BenhNhan>
+		<BenhNhan MasoBN="BN003">
+			<HoTen>Nguyễn Quốc Việt</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2004-11-20</NgayNhapVien>
+			<NgayDieuTri>91</NgayDieuTri>
+		</BenhNhan>
+	</Khoa>
+	<Khoa>
+		<TenKhoa>Ngoại</TenKhoa>
+		<Phong>402</Phong>
+		<BenhNhan MasoBN="BN002">
+			<HoTen>Đặng Thu Trang</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2015-11-13</NgayNhapVien>
+			<NgayDieuTri>2</NgayDieuTri>
+		</BenhNhan>
+	</Khoa>
+	<Khoa>
+		<TenKhoa>Cấp cứu</TenKhoa>
+		<Phong>505</Phong>
+		<BenhNhan MasoBN="BN003">
+			<HoTen>Nguyễn Văn Vương</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2016-09-07</NgayNhapVien>
+			<NgayDieuTri>2</NgayDieuTri>
+		</BenhNhan>
+	</Khoa>
+</BVDK>

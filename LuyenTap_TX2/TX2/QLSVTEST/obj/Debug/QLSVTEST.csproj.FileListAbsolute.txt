@@ -1,0 +1,11 @@
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\QLSVTEST\bin\Debug\QLSVTEST.exe.config
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\QLSVTEST\bin\Debug\QLSVTEST.exe
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\QLSVTEST\bin\Debug\QLSVTEST.pdb
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\QLSVTEST\obj\Debug\QLSVTEST.csproj.AssemblyReference.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\QLSVTEST\obj\Debug\QLSVTEST.Form1.resources
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\QLSVTEST\obj\Debug\QLSVTEST.Properties.Resources.resources
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\QLSVTEST\obj\Debug\QLSVTEST.csproj.GenerateResource.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\QLSVTEST\obj\Debug\QLSVTEST.csproj.CoreCompileInputs.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\QLSVTEST\obj\Debug\QLSVTEST.exe
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\QLSVTEST\obj\Debug\QLSVTEST.pdb
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\QLSVTEST\obj\Debug\QLSVTEST.exe.config

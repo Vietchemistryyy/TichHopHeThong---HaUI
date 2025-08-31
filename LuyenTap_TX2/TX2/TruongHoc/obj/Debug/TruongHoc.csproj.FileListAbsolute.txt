@@ -1,0 +1,11 @@
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TruongHoc\bin\Debug\TruongHoc.exe.config
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TruongHoc\bin\Debug\TruongHoc.exe
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TruongHoc\bin\Debug\TruongHoc.pdb
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TruongHoc\obj\Debug\TruongHoc.csproj.AssemblyReference.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TruongHoc\obj\Debug\TruongHoc.Form1.resources
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TruongHoc\obj\Debug\TruongHoc.Properties.Resources.resources
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TruongHoc\obj\Debug\TruongHoc.csproj.GenerateResource.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TruongHoc\obj\Debug\TruongHoc.csproj.CoreCompileInputs.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TruongHoc\obj\Debug\TruongHoc.exe
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TruongHoc\obj\Debug\TruongHoc.pdb
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TruongHoc\obj\Debug\TruongHoc.exe.config

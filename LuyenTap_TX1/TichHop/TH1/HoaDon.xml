@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="HoaDon.xslt"?>
+<DS>
+	<HoaDon>
+		<MaHD>HD001</MaHD>
+		<NgayBan>2025-07-01</NgayBan>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H001">
+				<TenHang>Ti Vi</TenHang>
+				<SoLuong>10</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="H002">
+				<TenHang>Tủ Lạnh</TenHang>
+				<SoLuong>5</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>4500000</DonGia>
+			</Hang>
+			<Hang MaHang="H003">
+				<TenHang>Máy Giặt</TenHang>
+				<SoLuong>8</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>3800000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="B" TenLoai="Gia dụng">
+			<Hang MaHang="H004">
+				<TenHang>Quạt máy</TenHang>
+				<SoLuong>15</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>700000</DonGia>
+			</Hang>
+			<Hang MaHang="H005">
+				<TenHang>Bếp gas</TenHang>
+				<SoLuong>6</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>2000000</DonGia>
+			</Hang>
+			<Hang MaHang="H006">
+				<TenHang>Lò vi sóng</TenHang>
+				<SoLuong>4</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>2200000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+
+	<HoaDon>
+		<MaHD>HD002</MaHD>
+		<NgayBan>2025-07-10</NgayBan>
+		<LoaiHang MaLoai="C" TenLoai="Thực phẩm">
+			<Hang MaHang="H007">
+				<TenHang>Sữa hộp</TenHang>
+				<SoLuong>20</SoLuong>
+				<DonViTinh>hộp</DonViTinh>
+				<DonGia>30000</DonGia>
+			</Hang>
+			<Hang MaHang="H008">
+				<TenHang>Mì gói</TenHang>
+				<SoLuong>50</SoLuong>
+				<DonViTinh>gói</DonViTinh>
+				<DonGia>5000</DonGia>
+			</Hang>
+			<Hang MaHang="H009">
+				<TenHang>Bánh quy</TenHang>
+				<SoLuong>30</SoLuong>
+				<DonViTinh>hộp</DonViTinh>
+				<DonGia>45000</DonGia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang MaLoai="D" TenLoai="Đồ uống">
+			<Hang MaHang="H010">
+				<TenHang>Trà xanh</TenHang>
+				<SoLuong>25</SoLuong>
+				<DonViTinh>chai</DonViTinh>
+				<!-- Vi phạm, bạn có thể sửa thành 'hộp' -->
+				<DonGia>12000</DonGia>
+			</Hang>
+			<Hang MaHang="H011">
+				<TenHang>Nước ngọt</TenHang>
+				<SoLuong>40</SoLuong>
+				<DonViTinh>hộp</DonViTinh>
+				<DonGia>15000</DonGia>
+			</Hang>
+			<Hang MaHang="H012">
+				<TenHang>Nước suối</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>hộp</DonViTinh>
+				<DonGia>8000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+</DS>

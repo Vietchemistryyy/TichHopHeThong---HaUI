@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<?xml-stylesheet type="text/xsl" href="HoaDon.xslt"?>
+
+<DS xmlns="http://tempuri.org/HoaDon.xsd">
+	<HoaDon>
+		<MaHD>HD1</MaHD>
+		<NgayBan>2015-11-09</NgayBan>
+		<LoaiHang MaLoai="ip001" TenLoai="Promax">
+			<Hang MaHang="H01">
+				<TenHang>Iphone15 Promax</TenHang>
+				<SoLuong>15</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>30000000</DonGia>
+			</Hang>
+			<Hang MaHang="H02">
+				<TenHang>Iphone16 Promax</TenHang>
+				<SoLuong>10</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>40000000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+	<HoaDon>
+		<MaHD>HD2</MaHD>
+		<NgayBan>2015-12-01</NgayBan>
+		<LoaiHang MaLoai="ss001" TenLoai="SamSung">	
+			<Hang MaHang="H01">
+				<TenHang>S24 Ultra</TenHang>
+				<SoLuong>17</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>24000000</DonGia>
+			</Hang>
+			<Hang MaHang="H02">
+				<TenHang>S26 Ultra Zip</TenHang>
+				<SoLuong>8</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>28000000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+</DS>

@@ -1,0 +1,11 @@
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KQHT\bin\Debug\KQHT.exe.config
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KQHT\bin\Debug\KQHT.exe
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KQHT\bin\Debug\KQHT.pdb
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KQHT\obj\Debug\KQHT.csproj.AssemblyReference.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KQHT\obj\Debug\KQHT.Form1.resources
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KQHT\obj\Debug\KQHT.Properties.Resources.resources
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KQHT\obj\Debug\KQHT.csproj.GenerateResource.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KQHT\obj\Debug\KQHT.csproj.CoreCompileInputs.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KQHT\obj\Debug\KQHT.exe
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KQHT\obj\Debug\KQHT.pdb
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KQHT\obj\Debug\KQHT.exe.config

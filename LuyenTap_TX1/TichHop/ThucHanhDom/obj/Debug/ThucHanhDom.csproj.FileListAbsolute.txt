@@ -1,0 +1,11 @@
+D:\Tichhophethong\TichHopViet\TichHop\ThucHanhDom\bin\Debug\ThucHanhDom.exe.config
+D:\Tichhophethong\TichHopViet\TichHop\ThucHanhDom\bin\Debug\ThucHanhDom.exe
+D:\Tichhophethong\TichHopViet\TichHop\ThucHanhDom\bin\Debug\ThucHanhDom.pdb
+D:\Tichhophethong\TichHopViet\TichHop\ThucHanhDom\obj\Debug\ThucHanhDom.csproj.AssemblyReference.cache
+D:\Tichhophethong\TichHopViet\TichHop\ThucHanhDom\obj\Debug\ThucHanhDom.Form1.resources
+D:\Tichhophethong\TichHopViet\TichHop\ThucHanhDom\obj\Debug\ThucHanhDom.Properties.Resources.resources
+D:\Tichhophethong\TichHopViet\TichHop\ThucHanhDom\obj\Debug\ThucHanhDom.csproj.GenerateResource.cache
+D:\Tichhophethong\TichHopViet\TichHop\ThucHanhDom\obj\Debug\ThucHanhDom.csproj.CoreCompileInputs.cache
+D:\Tichhophethong\TichHopViet\TichHop\ThucHanhDom\obj\Debug\ThucHanhDom.exe
+D:\Tichhophethong\TichHopViet\TichHop\ThucHanhDom\obj\Debug\ThucHanhDom.pdb
+D:\Tichhophethong\TichHopViet\TichHop\ThucHanhDom\obj\Debug\ThucHanhDom.exe.config

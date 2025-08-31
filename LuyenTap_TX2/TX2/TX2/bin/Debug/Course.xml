@@ -1,0 +1,32 @@
+<course>
+  <student id="2022601829">
+    <name>Nguyễn Quốc Việt</name>
+    <age>20</age>
+    <city>Nam Định</city>
+  </student>
+  <student id="222230123">
+    <name>Nguyễn Văn A</name>
+    <age>22</age>
+    <city>Hà Nội</city>
+  </student>
+  <student id="202213">
+    <name>Toàn</name>
+    <age>221</age>
+    <city>errrwe</city>
+  </student>
+  <student id="231">
+    <name>213123</name>
+    <age>ádasd</age>
+    <city>ádasd</city>
+  </student>
+  <student id="sdfdsf">
+    <name>ádas</name>
+    <age>dâdasda</age>
+    <city>ádasd</city>
+  </student>
+  <student id="2123">
+    <name>21321</name>
+    <age>2131</age>
+    <city>Nam Định</city>
+  </student>
+</course>

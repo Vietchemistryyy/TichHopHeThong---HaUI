@@ -1,0 +1,11 @@
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TX2\bin\Debug\TX2.exe.config
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TX2\bin\Debug\TX2.exe
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TX2\bin\Debug\TX2.pdb
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TX2\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TX2\obj\Debug\TX2.exe.config
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TX2\obj\Debug\TX2.Form1.resources
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TX2\obj\Debug\TX2.Properties.Resources.resources
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TX2\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TX2\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TX2\obj\Debug\TX2.exe
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\TX2\obj\Debug\TX2.pdb

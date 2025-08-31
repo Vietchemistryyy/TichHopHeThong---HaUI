@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tichhophethong\\TichHopViet\\TichHop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74294B50-AF64-4BDB-B42B-5781B6C086A3}|ThuVien\\ThuVien.csproj|d:\\tichhophethong\\tichhopviet\\tichhop\\thuvien\\thuvien.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74294B50-AF64-4BDB-B42B-5781B6C086A3}|ThuVien\\ThuVien.csproj|solutionrelative:thuvien\\thuvien.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53553890-9035-4F51-9E20-EB9150ED2278}|TichHop\\HoaDon.csproj|d:\\tichhophethong\\tichhopviet\\tichhop\\tichhop\\hoadon.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53553890-9035-4F51-9E20-EB9150ED2278}|TichHop\\HoaDon.csproj|solutionrelative:tichhop\\hoadon.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74294B50-AF64-4BDB-B42B-5781B6C086A3}|ThuVien\\ThuVien.csproj|d:\\tichhophethong\\tichhopviet\\tichhop\\thuvien\\thuvien.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{74294B50-AF64-4BDB-B42B-5781B6C086A3}|ThuVien\\ThuVien.csproj|solutionrelative:thuvien\\thuvien.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74294B50-AF64-4BDB-B42B-5781B6C086A3}|ThuVien\\ThuVien.csproj|d:\\tichhophethong\\tichhopviet\\tichhop\\thuvien\\thuvien.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{74294B50-AF64-4BDB-B42B-5781B6C086A3}|ThuVien\\ThuVien.csproj|solutionrelative:thuvien\\thuvien.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoaDon.xsd",
+              "DocumentMoniker": "D:\\Tichhophethong\\TichHopViet\\TichHop\\TichHop\\HoaDon.xsd",
+              "RelativeDocumentMoniker": "TichHop\\HoaDon.xsd",
+              "ToolTip": "D:\\Tichhophethong\\TichHopViet\\TichHop\\TichHop\\HoaDon.xsd",
+              "RelativeToolTip": "TichHop\\HoaDon.xsd",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-07-26T06:56:37.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThuVien.xsd",
+              "DocumentMoniker": "D:\\Tichhophethong\\TichHopViet\\TichHop\\ThuVien\\ThuVien.xsd",
+              "RelativeDocumentMoniker": "ThuVien\\ThuVien.xsd",
+              "ToolTip": "D:\\Tichhophethong\\TichHopViet\\TichHop\\ThuVien\\ThuVien.xsd",
+              "RelativeToolTip": "ThuVien\\ThuVien.xsd",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-07-26T06:34:24.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThuVien.xml",
+              "DocumentMoniker": "D:\\Tichhophethong\\TichHopViet\\TichHop\\ThuVien\\ThuVien.xml",
+              "RelativeDocumentMoniker": "ThuVien\\ThuVien.xml",
+              "ToolTip": "D:\\Tichhophethong\\TichHopViet\\TichHop\\ThuVien\\ThuVien.xml",
+              "RelativeToolTip": "ThuVien\\ThuVien.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-07-26T06:34:42.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThuVien.xslt",
+              "DocumentMoniker": "D:\\Tichhophethong\\TichHopViet\\TichHop\\ThuVien\\ThuVien.xslt",
+              "RelativeDocumentMoniker": "ThuVien\\ThuVien.xslt",
+              "ToolTip": "D:\\Tichhophethong\\TichHopViet\\TichHop\\ThuVien\\ThuVien.xslt",
+              "RelativeToolTip": "ThuVien\\ThuVien.xslt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2025-07-26T06:34:59.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

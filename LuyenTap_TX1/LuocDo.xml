@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QLSV xmlns="http://tempuri.org/LuocDo.xsd">
+	<SinhVien>
+		<HoTen>Nguyễn Quốc Việt</HoTen>
+		<NgaySinh>2004-11-20</NgaySinh>
+		<GioiTinh>Nam</GioiTinh>
+		<Que>Nam Định</Que>
+		<TrinhDo>Đại Học</TrinhDo>
+		<HeSoDiem>3.22</HeSoDiem>
+	</SinhVien>
+	<SinhVien>
+		<HoTen>Nguyễn Quốc Việt</HoTen>
+		<NgaySinh>2004-11-20</NgaySinh>
+		<GioiTinh>Nam</GioiTinh>
+		<Que>Nam Định</Que>
+		<TrinhDo>Đại Học</TrinhDo>
+		<HeSoDiem>3.22</HeSoDiem>
+	</SinhVien>
+	<SinhVien>
+		<HoTen>Nguyễn Quốc Việt</HoTen>
+		<NgaySinh>2004-11-20</NgaySinh>
+		<GioiTinh>Nam</GioiTinh>
+		<Que>Nam Định</Que>
+		<TrinhDo>Đại Học</TrinhDo>
+		<HeSoDiem>3.22</HeSoDiem>
+	</SinhVien>
+</QLSV>

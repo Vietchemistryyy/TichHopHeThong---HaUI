@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tichhophethong\\TichHopViet\\LuyenTap_TX2\\TX2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B229A30D-75E4-414A-A542-5EC7B1193D2E}|KetQuaHocTap\\KetQuaHocTap.csproj|d:\\tichhophethong\\tichhopviet\\luyentap_tx2\\tx2\\ketquahoctap\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B229A30D-75E4-414A-A542-5EC7B1193D2E}|KetQuaHocTap\\KetQuaHocTap.csproj|solutionrelative:ketquahoctap\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B229A30D-75E4-414A-A542-5EC7B1193D2E}|KetQuaHocTap\\KetQuaHocTap.csproj|d:\\tichhophethong\\tichhopviet\\luyentap_tx2\\tx2\\ketquahoctap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B229A30D-75E4-414A-A542-5EC7B1193D2E}|KetQuaHocTap\\KetQuaHocTap.csproj|solutionrelative:ketquahoctap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B229A30D-75E4-414A-A542-5EC7B1193D2E}|KetQuaHocTap\\KetQuaHocTap.csproj|d:\\tichhophethong\\tichhopviet\\luyentap_tx2\\tx2\\ketquahoctap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B229A30D-75E4-414A-A542-5EC7B1193D2E}|KetQuaHocTap\\KetQuaHocTap.csproj|solutionrelative:ketquahoctap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60376FD-8750-485E-8A38-395D03F88C43}|TruongHoc\\TruongHoc.csproj|D:\\Tichhophethong\\TichHopViet\\LuyenTap_TX2\\TX2\\truonghoc\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60376FD-8750-485E-8A38-395D03F88C43}|TruongHoc\\TruongHoc.csproj|solutionrelative:truonghoc\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60376FD-8750-485E-8A38-395D03F88C43}|TruongHoc\\TruongHoc.csproj|d:\\tichhophethong\\tichhopviet\\luyentap_tx2\\tx2\\truonghoc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60376FD-8750-485E-8A38-395D03F88C43}|TruongHoc\\TruongHoc.csproj|solutionrelative:truonghoc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Tichhophethong\\TichHopViet\\LuyenTap_TX2\\TX2\\TruongHoc\\Form1.cs",
+              "RelativeDocumentMoniker": "TruongHoc\\Form1.cs",
+              "ToolTip": "D:\\Tichhophethong\\TichHopViet\\LuyenTap_TX2\\TX2\\TruongHoc\\Form1.cs",
+              "RelativeToolTip": "TruongHoc\\Form1.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAcwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T06:15:05.772Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataUtil.cs",
+              "DocumentMoniker": "D:\\Tichhophethong\\TichHopViet\\LuyenTap_TX2\\TX2\\TruongHoc\\DataUtil.cs",
+              "RelativeDocumentMoniker": "TruongHoc\\DataUtil.cs",
+              "ToolTip": "D:\\Tichhophethong\\TichHopViet\\LuyenTap_TX2\\TX2\\TruongHoc\\DataUtil.cs",
+              "RelativeToolTip": "TruongHoc\\DataUtil.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T04:25:59.133Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Tichhophethong\\TichHopViet\\LuyenTap_TX2\\TX2\\KetQuaHocTap\\Form1.cs",
+              "RelativeDocumentMoniker": "KetQuaHocTap\\Form1.cs",
+              "ToolTip": "D:\\Tichhophethong\\TichHopViet\\LuyenTap_TX2\\TX2\\KetQuaHocTap\\Form1.cs",
+              "RelativeToolTip": "KetQuaHocTap\\Form1.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwFkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:30:12.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataUtil.cs",
+              "DocumentMoniker": "D:\\Tichhophethong\\TichHopViet\\LuyenTap_TX2\\TX2\\KetQuaHocTap\\DataUtil.cs",
+              "RelativeDocumentMoniker": "KetQuaHocTap\\DataUtil.cs",
+              "ToolTip": "D:\\Tichhophethong\\TichHopViet\\LuyenTap_TX2\\TX2\\KetQuaHocTap\\DataUtil.cs",
+              "RelativeToolTip": "KetQuaHocTap\\DataUtil.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwFgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:31:51.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Tichhophethong\\TichHopViet\\LuyenTap_TX2\\TX2\\KetQuaHocTap\\Form1.cs",
+              "RelativeDocumentMoniker": "KetQuaHocTap\\Form1.cs",
+              "ToolTip": "D:\\Tichhophethong\\TichHopViet\\LuyenTap_TX2\\TX2\\KetQuaHocTap\\Form1.cs [Design]",
+              "RelativeToolTip": "KetQuaHocTap\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T06:29:52.7Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

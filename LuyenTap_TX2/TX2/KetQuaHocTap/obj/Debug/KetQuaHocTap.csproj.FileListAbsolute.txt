@@ -1,0 +1,11 @@
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KetQuaHocTap\bin\Debug\KetQuaHocTap.exe.config
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KetQuaHocTap\bin\Debug\KetQuaHocTap.exe
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KetQuaHocTap\bin\Debug\KetQuaHocTap.pdb
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KetQuaHocTap\obj\Debug\KetQuaHocTap.csproj.AssemblyReference.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KetQuaHocTap\obj\Debug\KetQuaHocTap.Form1.resources
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KetQuaHocTap\obj\Debug\KetQuaHocTap.Properties.Resources.resources
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KetQuaHocTap\obj\Debug\KetQuaHocTap.csproj.GenerateResource.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KetQuaHocTap\obj\Debug\KetQuaHocTap.csproj.CoreCompileInputs.cache
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KetQuaHocTap\obj\Debug\KetQuaHocTap.exe
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KetQuaHocTap\obj\Debug\KetQuaHocTap.pdb
+D:\Tichhophethong\TichHopViet\LuyenTap_TX2\TX2\KetQuaHocTap\obj\Debug\KetQuaHocTap.exe.config
